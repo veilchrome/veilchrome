@@ -1,4 +1,4 @@
-# Hi there 👋, veilcrhome here. 
+# Hi there 👋, veilchrome here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=veilchrome-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/veilchrome-hash.svg?style=social&label=Follow)](https://github.com/veilchrome-hash?tab=followers)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -14,7 +14,7 @@ I am an undergraduate Computer science and Engineering student at University Muh
   - GoLang
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read mang, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I love to read manga, 🎵 listen to music, 🚀 Playing Game, and 🌴 explore nature outdoors with motorcycle.
 - 📫 Reach out to me at: <a href="keeita768900@gmail.com">keeita768900@gmail.com</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veilchrome)](https://github.com/veilchrome/github-readme-stats)
