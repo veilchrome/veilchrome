@@ -21,4 +21,4 @@ I am an undergraduate Computer science and Engineering student at University Muh
 
 [![veilchrome's GitHub stats](https://github-readme-stats.vercel.app/api?username=veilchrome)](https://github.com/veilchrome/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------------
-### Credits: <a href="https://github.com/veilchrome-hash">Selamet Saputra</a>
+Credits: <a href="https://github.com/veilchrome-hash">Selamet Saputra</a>
