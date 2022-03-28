@@ -17,6 +17,8 @@ I am an undergraduate Computer science and Engineering student at University Muh
 - Outside tech, 📖 I love to read manga, 🎵 listen to music, 🚀 Playing Game, and 🌴 explore nature outdoors with motorcycle.
 - 📫 Reach out to me at: <a href="keeita768900@gmail.com">keeita768900@gmail.com</a>
 
+--------------------------------------------------------------------------------------------------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veilchrome)](https://github.com/veilchrome/github-readme-stats)
 
 [![veilchrome's GitHub stats](https://github-readme-stats.vercel.app/api?username=veilchrome)](https://github.com/veilchrome/github-readme-stats)
